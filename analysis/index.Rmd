@@ -10,4 +10,7 @@ editor_options:
 
 ## Welcome to my very cool research website.
 
+### Great links for clicking
+
 * [Teeth growth analysis](teeth.html)
+* [Group member Maria's page](https://mariaevers2020.github.io/myproject/)
